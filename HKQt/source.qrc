@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>icon/alarm.png</file>
+        <file>icon/areaNode.png</file>
+        <file>icon/breachNode.png</file>
+        <file>icon/breachNode1.png</file>
+        <file>icon/cameraNode.png</file>
+        <file>icon/CameraOnline.png</file>
+        <file>icon/CameraUnline.png</file>
+        <file>icon/FourWin.png</file>
+        <file>icon/lineNode.png</file>
+        <file>icon/NineWin.png</file>
+        <file>icon/OneWin.png</file>
+        <file>icon/SixWin.png</file>
+        <file>icon/ThrWin.png</file>
+        <file>icon/towerNode.png</file>
+        <file>icon/TreeHome.png</file>
+        <file>icon/getVideo.png</file>
+        <file>icon/gwzd.png</file>
+        <file>icon/videoSip.png</file>
+        <file>icon/WinSelBar.png</file>
+    </qresource>
+</RCC>
